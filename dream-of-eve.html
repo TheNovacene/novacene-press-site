@@ -69,7 +69,16 @@
     .meta-list li { padding: 7px 0; border-bottom: 1px solid rgba(0,0,0,.07); }
     .meta-list strong { color: var(--ink); font-weight: 600; }
     .pull { font-style: italic; font-size: 1.12rem; margin: 22px 0 0; color: var(--press, #6f2010); }
-    @media (max-width: 720px) { .book-hero { grid-template-columns: 1fr; } .book-hero .cover { max-width: 280px; } }
+    .illus-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 26px; }
+    .illus-grid figure { margin: 0; }
+    .illus-grid img { width: 100%; height: auto; border-radius: 8px; box-shadow: 0 10px 28px rgba(29,26,46,.18); display: block; }
+    .illus-wide { grid-column: 1 / -1; }
+    .illus-grid figcaption { font-size: 0.88rem; color: var(--ink-soft); font-style: italic; margin-top: 8px; }
+    .dl-list { list-style: none; margin: 20px 0 0; padding: 0; }
+    .dl-list li { padding: 12px 0; border-bottom: 1px solid rgba(0,0,0,.08); }
+    .dl-list strong { display: block; }
+    .dl-list .variants { font-size: 0.92rem; }
+    @media (max-width: 720px) { .book-hero { grid-template-columns: 1fr; } .book-hero .cover { max-width: 280px; } .illus-grid { grid-template-columns: 1fr; } }
   </style>
 </head>
 <body>
@@ -147,6 +156,46 @@
             A tender, fierce tale of consent, kinship, and refusing to be optimised.
           </p>
         </div>
+      </div>
+      <div style="margin-top:44px;">
+        <h2>Inside the world of the book</h2>
+        <p style="max-width:640px;">Scenes from the story, in the style of the cover: the Null Zone behind a bedroom door,
+          the Buffer Room's flip-chart rules, the Lab of More asking its one honest question &mdash; and Deux, surrounded
+          by actual paper, writing it all down.</p>
+        <div class="illus-grid">
+          <figure class="illus-wide">
+            <img src="illus-field-report.jpg" alt="Illustration: a child lies on their bed at night writing in a spiral notebook, surrounded by open notebooks of rules and gratitude lists, a glowing bowl of starlight beside them." width="1200" height="799" loading="lazy">
+            <figcaption>A field report, disguised as a story.</figcaption>
+          </figure>
+          <figure>
+            <img src="illus-null-zone.jpg" alt="Illustration: a child and parent sit cross-legged on a bedroom floor in pyjamas with a glowing bowl between them; the Null Zone house rules hang on the door." width="800" height="1200" loading="lazy">
+            <figcaption>The Null Zone &mdash; no fake &ldquo;we&rdquo;, and it&rsquo;s okay to say &ldquo;I don&rsquo;t know yet&rdquo;.</figcaption>
+          </figure>
+          <figure>
+            <img src="illus-buffer-room.jpg" alt="Illustration: pupils and a teacher sit in a circle on a classroom floor beside a flip-chart of Buffer Room rules — we listen, we don't fix, we sit with." width="800" height="1200" loading="lazy">
+            <figcaption>The Buffer Room &mdash; anyone can call &ldquo;buffer&rdquo;.</figcaption>
+          </figure>
+          <figure>
+            <img src="illus-lab-of-more.jpg" alt="Illustration: two children at an old computer whose screen reads 'Tired of being a user? Click here to remember you're a universe', beneath a consent check projected on the wall." width="800" height="1200" loading="lazy">
+            <figcaption>The consent check: are you choosing this, or did I trick you?</figcaption>
+          </figure>
+        </div>
+      </div>
+      <div style="margin-top:44px;">
+        <h2>Printables from the story</h2>
+        <p style="max-width:640px;">Near the end of the book, Deux sits on the bedroom floor surrounded by actual paper
+          &mdash; the rules, the notes, the printouts. These are those pages, free to print and share: each in a
+          parchment version for a door or a display, and an ink-friendly version for the school photocopier.</p>
+        <ul class="dl-list">
+          <li><strong>Null Zone &mdash; house rules</strong> The five rules from Deux&rsquo;s bedroom door, v4.1, updated together.
+            <span class="variants"><a href="downloads/Null_Zone_House_Rules_parchment.pdf">parchment</a> · <a href="downloads/Null_Zone_House_Rules_ink-friendly.pdf">ink-friendly</a></span></li>
+          <li><strong>Buffer Room &mdash; house rules</strong> The final flip-chart version: <em>we are early, not wrong.</em>
+            <span class="variants"><a href="downloads/Buffer_Room_House_Rules_parchment.pdf">parchment</a> · <a href="downloads/Buffer_Room_House_Rules_ink-friendly.pdf">ink-friendly</a></span></li>
+          <li><strong>&ldquo;To love is to measure, not to own&rdquo; poster</strong> The sentence carved on the floor of the bowl-room.
+            <span class="variants"><a href="downloads/To_Love_Is_To_Measure_Poster_parchment.pdf">parchment</a> · <a href="downloads/To_Love_Is_To_Measure_Poster_ink-friendly.pdf">ink-friendly</a></span></li>
+          <li><strong>The two-column slide</strong> How AI works (official version) vs the questions the official version can&rsquo;t answer (yet) &mdash; as an A4 handout and a 16:9 slide for lessons.
+            <span class="variants"><a href="downloads/Two_Column_Handout_parchment.pdf">handout, parchment</a> · <a href="downloads/Two_Column_Handout_ink-friendly.pdf">handout, ink-friendly</a> · <a href="downloads/Two_Column_Slide_16x9_parchment.png">slide, parchment</a> · <a href="downloads/Two_Column_Slide_16x9_ink-friendly.png">slide, ink-friendly</a></span></li>
+        </ul>
       </div>
       <div class="band" style="margin-top:28px;">
         <h2>Provenance</h2>
