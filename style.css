@@ -223,6 +223,11 @@ a.card:hover { text-decoration: none; transform: translateY(-4px); box-shadow: v
 
 .site-footer .legal { margin-top: 36px; padding-top: 20px; border-top: 1px solid var(--line); font-size: 0.83rem; }
 
+/* ---------- Society of Authors badge ---------- */
+.soa-badge { display: inline-block; margin-top: 16px; padding: 10px 14px; border-radius: 8px; background: var(--ink); line-height: 0; }
+.soa-badge img { width: 180px; max-width: 100%; height: auto; display: block; }
+.soa-badge:hover { opacity: 0.88; text-decoration: none; }
+
 @media (max-width: 860px) {
   .site-nav { gap: 14px; }
   .site-nav .hide-sm { display: none; }
