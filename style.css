@@ -253,6 +253,8 @@ sup { line-height: 0; font-size: 0.72em; }
 .cover-trojan    { background: linear-gradient(135deg, #c8502e, #e58a68); }
 .cover-reckoning { background: linear-gradient(135deg, #8a4fbe, #b88ade); }
 .cover-floors    { background: linear-gradient(135deg, #3b332a, #b39d72); }
+.cover-lexicon   { background: linear-gradient(135deg, #14324a, #3a7ca5); }
+.card .cite { margin-top: 10px; font-size: 0.8rem; color: var(--ink-soft); line-height: 1.45; }
 .manifesto-quote {
   font-family: "Fraunces", Georgia, serif;
   font-style: italic;
