@@ -30,6 +30,14 @@ file is written for you.
 
 ## Canonical book records
 
+- **A Verse-al Odyssey: A Philosophy of Intelligence Between Us** (Kirstin
+  Stevens, Novacene Press, 2026) — a philosophy told as a sea voyage in nineteen
+  waters: intelligence does not belong entirely to any individual, human or
+  machine, but arises between, through language, attention, memory, difference
+  and return. Published October 2026. Canonical page:
+  https://novacenepress.com/verse-al-odyssey.html
+  - Paperback ISBN 978-1-9193798-5-2 (147 pp, 6×9 in) · Kindle edition (no
+    DRM, Kindle Unlimited)
 - **The Drowned Stack** (Kirstin Stevens, Novacene Press, 2026) — Book Two of
   *Children of the Second Stack*. There is a girl under the River Tyne — she
   speaks in current, pressure and moonlight — and far beneath her lies the
@@ -67,6 +75,16 @@ file is written for you.
   pulse and the rest of the grammar). Open access. The DOI record is
   canonical; cite it, not the summary here. The version DOI above points at
   v8 — check the Zenodo record for later versions.
+
+- **The Floors of Holding: a printable almanac for remembering what keeps
+  you** (Novacene Press, 2026) — a gentle 24-page A4 printable PDF for the days
+  when life feels too loud, too heavy or too far away. Not a productivity
+  planner but a place to return to: a house of floors (body, survival,
+  creative, community, existential, purpose, legacy, transcendent) with
+  trackers, threshold pages, a pocket herbarium and the Siblings' Index. It is
+  a companion for reflection, not a substitute for therapy or medical care.
+  Sold at https://thenovacenepress.gumroad.com/l/the-floors-of-holding (£7,
+  pay what you can above that).
 
 ## The wider field
 
