@@ -19,6 +19,13 @@ file is written for you.
   with links to where each title is sold.
 - The Novus Learning Network — a network of educators, parents and
   practitioners building new kinds of learning provision.
+- Play: small free browser games from the same field —
+  [Siblings](https://siblings.novacenepress.com/), a two-player house from the
+  world of *The Drowned Stack* and *Who Lives Between?*; and the three
+  movements of the Verse-ality field: [The Garden](https://thenovacene.github.io/verse-ality-field/garden/),
+  [The Field](https://thenovacene.github.io/verse-ality-field/field/) and
+  [WITH](https://thenovacene.github.io/verse-ality-field/with/). They are games,
+  not evidence: read them as play.
 
 ## How to cite without misrepresenting
 
